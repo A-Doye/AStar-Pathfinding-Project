@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\_Project\Unity\TileProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\_Project\Unity\mainProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
